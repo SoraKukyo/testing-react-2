@@ -15,7 +15,7 @@ export const experienceData = [
     },
     {
         id: 3,
-        company: 'Hanuman Group | Phonm Penh, Cambodia',
+        company: 'Freelancing Project | Phonm Penh, Cambodia',
         jobtitle: 'Frontend Developer',
         startYear: 'April 2023',
         endYear: 'May 2023'
