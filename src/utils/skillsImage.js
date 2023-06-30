@@ -3,12 +3,14 @@ import html from '../assets/svg/skills/html.svg'
 import photoshop from '../assets/svg/skills/photoshop.svg'
 import illustrator from '../assets/svg/skills/illustrator.svg'
 import docker from '../assets/svg/skills/docker.svg'
+import odoo from '../assets/svg/skills/odoo.svg'
 import adobeXd from '../assets/svg/skills/adobe-xd.svg'
 import afterEffects from '../assets/svg/skills/after-effects.svg'
 import css from '../assets/svg/skills/css.svg'
 import angular from '../assets/svg/skills/angular.svg'
 import javascript from '../assets/svg/skills/javascript.svg'
 import nextJS from '../assets/svg/skills/nextJS.svg'
+import node from '../assets/svg/skills/node.svg'
 import nuxtJS from '../assets/svg/skills/nuxtJS.svg'
 import react from '../assets/svg/skills/react.svg'
 import svelte from '../assets/svg/skills/svelte.svg'
@@ -91,6 +93,8 @@ export const skillsImage = (skill) => {
             return illustrator;
         case 'adobe xd':
             return adobeXd;
+            case 'odoo':
+                return odoo;
         case 'after effects':
             return afterEffects;
         case 'css':
@@ -105,6 +109,8 @@ export const skillsImage = (skill) => {
             return nuxtJS;
         case 'react':
             return react;
+        case 'node js':
+            return node;
         case 'svelte':
             return svelte;
         case 'typescript':

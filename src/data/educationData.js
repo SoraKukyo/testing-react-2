@@ -1,22 +1,36 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
+        institution: 'Beltei International School',
+        course: 'Diploma of English Education',
         startYear: '2007',
-        endYear: '2015'
+        endYear: '2018'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
+        institution: 'Beltei International School',
+        course: 'Diploma of Khmer Education',
+        startYear: '2007',
+        endYear: '2018'
     },
     {
         id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
+        institution: 'Center for Banking Studies',
+        course: 'Associate of Banking and Finance',
+        startYear: '2019',
+        endYear: '2020'
+    },
+    {
+        id: 4,
+        institution: 'Kirirom Institute of Technology',
+        course: 'Associate of Python Bootcamp',
+        startYear: '2019',
+        endYear: '2020'
+    },
+    {
+        id: 5,
+        institution: 'Kirirom Institute of Technology',
+        course: 'Bachelor of Software Engineering',
         startYear: '2019',
         endYear: 'Present'
     },
