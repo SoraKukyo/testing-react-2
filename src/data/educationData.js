@@ -8,7 +8,7 @@ export const educationData = [
     },
     {
         id: 2,
-        institution: 'Beltei International School',
+        institution: 'Bak Touk High School',
         course: 'Diploma of Khmer Education',
         startYear: '2007',
         endYear: '2018'

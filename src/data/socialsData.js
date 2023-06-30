@@ -1,5 +1,5 @@
 export const socialsData = {
-    github: 'https://github.com/',
+    github: 'https://github.com/rachanapich',
     facebook: 'https://www.facebook.com/',
     linkedIn: 'https://www.linkedin.com/in',
     instagram: 'https://www.instagram.com/',
@@ -9,6 +9,6 @@ export const socialsData = {
     blogger: 'https://www.blogger.com/',
     medium: 'https://medium.com/@',
     stackOverflow: 'https://stackoverflow.com/users/',
-    gitlab: 'https://gitlab.com/',
+    gitlab: 'https://gitlab.com/pich.rachana19',
     youtube: 'https://youtube.com/'
 }
