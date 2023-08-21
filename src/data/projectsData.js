@@ -35,7 +35,7 @@ export const projectsData = [
     id: 3,
     projectName: "OnlyChat",
     projectDesc:
-      "Fronted : react ts material ui Figma Vercel Backend : Java spring boot , rest api , postgresql, railway for hosting",
+      "It is a bootcamp project about creating a full stack web application while using React and Java Spring boot. This is a chatting web application what allow user to create an unlimited group chat with just a few click.",
     tags: ["React JS", "Springboot", "REST Api", "Postgresql"],
     code: "https://github.com/rachanapich/OnlyChat",
     demo: "",
